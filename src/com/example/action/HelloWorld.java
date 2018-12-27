@@ -18,6 +18,23 @@ package com.example.action;
  * @create 2018/12/27
  * @since 1.0.0
  */
+
+
+/**
+ * git init
+ *
+ * git add src
+ *
+ * git commit -m  "first commit"
+ *
+ * git remote add origin https://github.com/mw138/TestGit.git
+ *
+ * git push  -u origin master
+ *
+ * 4 如果不出错误提示输入用户名, 密码:
+ *
+ *
+ */
 public class HelloWorld {
 
 }
