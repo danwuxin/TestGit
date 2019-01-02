@@ -11,5 +11,6 @@
 11.重新格式化代码   CTRL+ALT+L  
 12.查找调用的方法()  CTRL+ALT+H  
 13.列出调用的方法() ALT+F7  
-14.代码折行     alt+shift+.  
-15.代码快速展开  ctrl+ +  
+14.代码折行     ALT+SHIFT+.  
+15.代码快速展开  CTRL+ +  
+16.快速查看某一个类的定义  CTRL+SHIFT+I  
