@@ -13,4 +13,15 @@
 13.列出调用的方法() ALT+F7  
 14.代码折行     ALT+SHIFT+.  
 15.代码快速展开  CTRL+ +  
-16.快速查看某一个类的定义  CTRL+SHIFT+I  
+16.快速查看类的定义CTRL+SHIFT+I  
+17.撤销    CTRL+Z  
+18.撤销再恢复  CTRL+SHIFT+Z  
+19.查找最近访问文件  CTRL+E  
+20.查找最近编辑果的文件 CTRL+SHIFT+E  
+21.快速补全封号   CTRL+SHIFT+ENTER  
+22.访问粘贴历史  ctrl+shiht+V  
+
+
+
+
+
