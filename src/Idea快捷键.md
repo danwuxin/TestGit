@@ -9,3 +9,7 @@
 9.大小写转化   CTRL+SHFIT+U  
 10.选中多个相同的字段操作  CTRL+ALT+SHIFT+J  
 11.重新格式化代码   CTRL+ALT+L  
+12.查找调用的方法()  CTRL+ALT+H  
+13.列出调用的方法() ALT+F7  
+14.代码折行     alt+shift+.  
+15.代码快速展开  ctrl+ +  
