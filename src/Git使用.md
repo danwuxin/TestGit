@@ -1,4 +1,6 @@
 #Git新建项目  
+
+https://www.cnblogs.com/java-maowei/p/5950930.html  
 1.创建项目  
 2.在github新建仓库  
 3.打开项目所在文件夹, 在文件夹上右键运行: git bash here  
