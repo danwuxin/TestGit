@@ -15,4 +15,6 @@ https://www.cnblogs.com/java-maowei/p/5950930.html
       
  * git push  -u origin master    
  
+ * 最后一步失败之后 git pull --rebase origin master  执行
+ 
  
